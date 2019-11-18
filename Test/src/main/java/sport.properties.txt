@@ -1,0 +1,3 @@
+foo.email=tttttjjjjjjj@gmail.com
+foo.team= TTTTTTTTTTJJJJJJJJJJJJJ
+
